@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<save>
+  <year number="2016">
+    <month number="1">
+      <day number="2">
+        <item calories="123" name="cheese"/>
+        <item calories="220" name="coke"/>
+      </day>
+      <day number="3">
+        <item calories="123" name="bread"/>
+        <item calories="220" name="bagel"/>
+      </day>
+    </month>
+    <month number="2">
+      <day number="1">
+        <item calories="123" name="cheese"/>
+        <item calories="220" name="coke"/>
+      </day>
+      <day number="3">
+        <item calories="123" name="bread"/>
+        <item calories="220" name="bagel"/>
+      </day>
+    </month>
+    <month number="7">
+      <day number="13">
+        <item calories="45" name="test"/>
+        <item calories="45" name="test"/>
+        <item calories="45" name="test"/>
+        <item calories="23" name="rwar"/>
+        <item calories="34" name="test"/>
+        <item calories="3" name="test"/>
+      </day>
+      <day number="21">
+        <item calories="456" name="shiy"/>
+        <item calories="500" name="Mars Bar"/>
+        <item calories="10" name="Celery"/>
+        <item calories="5" name="Cocaine"/>
+        <item calories="100" name="coke"/>
+        <item calories="345" name="wat"/>
+      </day>
+    </month>
+  </year>
+  <year number="2017">
+    <month number="6">
+      <day number="2">
+        <item calories="123" name="cheese"/>
+        <item calories="220" name="coke"/>
+      </day>
+      <day number="3">
+        <item calories="123" name="bread"/>
+        <item calories="220" name="bagel"/>
+      </day>
+    </month>
+    <month number="7">
+      <day number="1">
+        <item calories="123" name="cheese"/>
+        <item calories="220" name="coke"/>
+      </day>
+      <day number="3">
+        <item calories="123" name="bread"/>
+        <item calories="220" name="bagel"/>
+      </day>
+    </month>
+  </year>
+  <year number="2017">
+    <month number="6">
+      <day number="2">
+        <item calories="123" name="cheese"/>
+        <item calories="220" name="coke"/>
+      </day>
+      <day number="3">
+        <item calories="123" name="bread"/>
+        <item calories="220" name="bagel"/>
+      </day>
+    </month>
+    <month number="7">
+      <day number="1">
+        <item calories="123" name="cheese"/>
+        <item calories="220" name="coke"/>
+      </day>
+      <day number="3">
+        <item calories="123" name="bread"/>
+        <item calories="220" name="bagel"/>
+      </day>
+    </month>
+  </year>
+  <year number="2012">
+    <month number="1">
+      <day number="2">
+        <item calories="200" name="poo"/>
+      </day>
+      <day number="3">
+        <item calories="200" name="poo"/>
+        <item calories="200" name="poo"/>
+        <item calories="200" name="poo"/>
+      </day>
+    </month>
+  </year>
+</save>
